@@ -1,6 +1,4 @@
 # Roadmap for Data Science
-
-
 | Stage | Skills and Topics |
 |-------|-------------------|
 | Fundamental Skills | Programming (Python or R), Statistics, Basic Programming Logic |
@@ -13,13 +11,12 @@
 | Project Experience | Applying skills through personal projects |
 | Communication Skills | Effective communication of analysis results |
 
+
 ![DataScienceRoadmap](Data-Science-Roadmap.png)
 
 
 
 # Roadmap for Data Engineer
-
-
 | Stage | Skills and Topics |
 |-------|-------------------|
 | Programming Skills | Learning a programming language (Python, Java) |
