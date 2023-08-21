@@ -15,6 +15,8 @@
 
 
 
+
+
 # Roadmap for Data Engineer
 
 
@@ -27,6 +29,8 @@
 | Data Quality | Managing data quality, cleaning, and preprocessing |
 | Data Security | Measures for data security and privacy |
 | Project Experience | Working on real-world data projects, gaining experience |
+
+
 
 
 
