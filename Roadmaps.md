@@ -14,6 +14,12 @@
 | Communication Skills | Effective communication of analysis results |
 
 
+
+
+
+
+
+
 ![DataScienceRoadmap](Data-Science-Roadmap.png)
 
 
