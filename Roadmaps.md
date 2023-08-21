@@ -14,6 +14,7 @@
 | Communication Skills | Effective communication of analysis results |
 
 
+![DataScienceRoadmap](Data-Science-Roadmap.png)
 
 
 
@@ -46,3 +47,8 @@
 | AI Applications | Applications like sentiment analysis, image classification |
 | Project Experience | Creating AI projects to gain practical experience |
 | Communication Skills | Translating complex concepts and results to others |
+
+
+
+
+![AIEngineerRoadmap](Technical-Competency-in-becoming-an-AI-Engineer-1.png)
