@@ -30,18 +30,9 @@
 | Data Security | Measures for data security and privacy |
 | Project Experience | Working on real-world data projects, gaining experience |
 
-
-
-
-
 ![DataEngineerRoadmap](dataEngineerRoadmap.png)
 
-
-
-
 # Roadmap for AI Engineer
-
-
 | Stage | Skills and Topics |
 |-------|-------------------|
 | Basic Programming | Basic programming in Python or another language |
