@@ -41,6 +41,11 @@
 
 
 
+![DataEngineerRoadmap](dataEngineerRoadmap.png)
+
+
+
+
 # Roadmap for AI Engineer
 
 
